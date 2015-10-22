@@ -1,0 +1,5 @@
+2015-10-07 21:38:34	admin	http://www.paleta.fifart.net/	Parse Error: 	syntax error, unexpected 'empty' (T_EMPTY) (line 351 of /home/admin/web/paleta.fifart.net/public_html/site/templates/home.php)
+2015-10-08 15:29:02	admin	http://paleta.fifart.net/	Parse Error: 	syntax error, unexpected 'col' (T_STRING) (line 139 of /home/admin/web/paleta.fifart.net/public_html/site/templates/home.php)
+2015-10-08 15:45:17	admin	http://paleta.fifart.net/	Parse Error: 	syntax error, unexpected '<' (line 331 of /home/admin/web/paleta.fifart.net/public_html/site/templates/home.php)
+2015-10-08 15:46:14	admin	http://paleta.fifart.net/	Parse Error: 	syntax error, unexpected '<' (line 331 of /home/admin/web/paleta.fifart.net/public_html/site/templates/home.php)
+2015-10-08 15:52:26	admin	http://paleta.fifart.net/	Parse Error: 	syntax error, unexpected '$images' (T_VARIABLE), expecting ',' or ';' (line 345 of /home/admin/web/paleta.fifart.net/public_html/site/templates/home.php)
